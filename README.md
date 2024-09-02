@@ -1,10 +1,9 @@
 # Iris Flower Classification
 
-**Lets Grow More Internship Project** - [**Credentials**]
-<font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
+**Lets Grow More Internship Project** 
 
-Click on the following link to checkout the colab file.
-- [Colab]
+
+<font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
 
 ---
 
